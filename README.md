@@ -28,7 +28,7 @@
   2. 進階新聞網頁元素設計（聲音、影片、slideshow ...等等）
   3. 長文設計
   4. 圖表設計及製作
-  5. 響應式網頁設計（Responsive Web Design）
+  5. 響應式網頁設計（Responsive Web Design）
   
 - 4/19 響應式網頁製作
   1. Chrome devtools 使用說明
