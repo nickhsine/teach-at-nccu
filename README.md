@@ -31,8 +31,8 @@
   - 響應式網頁設計（Responsive Web Design）
   
 ### 4/19 響應式網頁製作
-  - Chrome devtools 使用說明
-  - 網頁元素如何對齊？
+  - 瀏覽器 Chrome devtools 使用說明
+  - 網頁元素如何對齊？
   - CSS Flexbox
   - CSS Media Query
   
