@@ -11,7 +11,7 @@
   - 網頁要素設計（header、navigation、hamburger menu、footer、logo ...等等)
   
 ### 3/22 基礎網頁製作
-  - 網頁概要
+  - 網頁概要
   - 網頁開發工具
   - 國內外新聞網站範例
   - HTML 標記語言入門    
