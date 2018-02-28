@@ -36,49 +36,48 @@
   3. CSS Flexbox
   4. CSS Media Query
   
-- 4/19 多媒體網頁製作
-  1. 影像裁切及壓縮
-  2. 影片壓縮
-  3. 如何使用網頁呈現影像、聲音和影片？
-  4. 響應式影像和影像畫質自動選取
+- 4/26 多媒體網頁製作
+  1. 影像裁切及壓縮
+  2. 影片壓縮
+  3. 如何使用網頁呈現影像、聲音和影片？
+  4. 響應式影像和影像畫質自動選取
   
-- 4/26 如何使用樣板套件和他站服務？
-  1. Open source 簡介
-  2. Bootstrap 樣板套件教學
+- 5/3 如何使用樣板套件和他站服務？
+  1. Open source 簡介
+  2. Bootstrap 樣板套件教學
   3. 如何鑲嵌他站網頁內容？
   4. 使用線上服務產生多媒體網頁要素 (影像左右對照、聲音引述、時間軸故事)
   
-- 5/3 使用者經驗和數位新聞攝影分享
-  1. 使用者經驗分享（講者遠端授課）
-  2. 報導者新聞攝影分享
+- 5/10 使用者經驗和數位新聞攝影分享
+  1. 使用者經驗分享（講者遠端授課）
+  2. 報導者新聞攝影分享
   
-- 5/10 動態網頁設計
-  1. 案例分享
-  2. 大尾鱸鰻 step by step 教學
-  
-- 5/17 大尾鱸鰻網頁製作 step by step
+- 5/17 動態網頁設計
+  1. 案例分享
+  2. 大尾鱸鰻 step by step 教學
 
 - 5/24 動態網頁製作
-  1. CSS transition 介紹
-  2. SVG 入門
-  3. 如何讓網頁動起來？
-  4. 套用 Animate.css
+  1. CSS transition 介紹
+  2. SVG 入門
+  3. 如何讓網頁動起來？
+  4. 套用 Animate.css
+  5. 大尾鱸鰻網頁製作 step by step
 
 - 5/31 新聞網站設計
 
 - 6/7 新聞網站製作
-  1. 網站 SEO（Search Engine Optimization）
-  2. CMS (Content Management System)
+  1. 網站 SEO（Search Engine Optimization）
+  2. CMS (Content Management System)
 
 - 6/14 如何架設新聞網站？
-  1. wordpress
+  1. wordpress
   2. medium
   3. github
-  4. 架站大小事及優缺點分析
+  4. 架站大小事及優缺點分析
   
 - 6/21 網站後續成效分析
   1. 網站分析工具應用
-  2. 如何解讀 Google Analytics？
-  3. Hotjar 使用
+  2. 如何解讀 Google Analytics？
+  3. Hotjar 使用
   
 - 6/28 期末作品呈現
