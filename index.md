@@ -3,24 +3,10 @@
 ## 課程大綱
 ### 3/1 課程介紹及加退選
 
-### 3/8 數位專題運作流程分享
-  - 介紹報導者數位專題 
-  - 介紹數位專題的各種形態
-  - 製作團隊與合作方式介紹
-  - 數位專題的製作歷程介紹
-  - 製作數位專題作品要點
-  - 簡介「設計思考」的步驟與方法
+### [3/8 數位專題運作流程分享](https://nickhsine.github.io/teach-at-nccu/2018-03-08)
 
-### 3/15 基礎新聞網頁設計
-  - 設計流程與設計工具
-  
-    流程：wireframe >> mockup >> elements 
-    
-    工具：Photoshop/Zeplin/InVision  
-    
-  - 新聞網頁要素設計(大標、副標、前言、影像、小標、內文、抽言 ...等等)
-  
-  - 網頁要素設計（header、navigation、hamburger menu、footer、logo ...等等)
+### [3/15 基礎新聞網頁設計](https://nickhsine.github.io/teach-at-nccu/2018-03-15)
+
   
 ### 3/22 基礎網頁製作
   - 網頁概要
