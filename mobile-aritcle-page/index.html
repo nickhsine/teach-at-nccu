@@ -1,244 +1,248 @@
 <html>
 
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css" />
-	<style>
-		* {
-			-webkit-box-sizing: border-box;
-			-moz-box-sizing: border-box;
-			box-sizing: border-box;
-		}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css" />
+    <style>
+        * {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
 
 
-		body {
-			font-family: MicrosoftJhengHei, "Noto Sans TC", "PingFang TC", "Apple LiGothic Medium", Roboto, "Microsoft JhengHei", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
-			background-color: #fff;
-		}
+        body {
+            font-family: MicrosoftJhengHei, "Noto Sans TC", "PingFang TC", "Apple LiGothic Medium", Roboto, "Microsoft JhengHei", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+            background-color: #fff;
+        }
 
-		figure {
-			margin: 0;
-		}
+        header {
+            max-width: calc(270/320*100%);
+            margin: 0 auto;
+        }
 
-		figcaption.inner-block {
-			font-size: 16px;
-			line-height: 1.5;
-			letter-spacing: 0.8px;
-			color: #6d6d6d;
-			margin-top: 15px;
-		}
+        header>span {
+            font-size: 16px;
+            font-weight: bold;
+            line-height: 2.25;
+        }
 
-		article {
-			color: #2d2d2d;
-		}
+        header>h1 {
+            margin-top: 11px;
+            font-size: 34px;
+            font-weight: bold;
+            line-height: 1.32;
+        }
 
-		header {
-			max-width: calc(270/320*100%);
-			margin: 0 auto;
-		}
+        article {
+            color: #2d2d2d;
+        }
 
-		header>span {
-			font-size: 16px;
-			font-weight: bold;
-			line-height: 2.25;
-		}
+        article>figure {
+            margin: 0;
+        }
 
-		header>h1 {
-			margin-top: 11px;
-			font-size: 34px;
-			font-weight: bold;
-			line-height: 1.32;
-		}
+        article>p,
+        article>h2,
+        article>blockquote,
+        article>ul,
+        article figcaption,
+        article>div,
+        article>header {
+            max-width: calc(281/320*100%);
+            margin: 0 auto;
+        }
 
-		.inner-block {
-			max-width: calc(281/320*100%);
-			margin: 0 auto;
-		}
+        article>p,
+        article>blockquote {
+            font-size: 18px;
+            line-height: 2.0;
+            letter-spacing: 0.9px;
+            margin-top: 40px;
+        }
 
-		.author {
-			margin-right: 30px;
-			font-size: 15px;
-			line-height: 2.25;
-		}
+        article>blockquote {
+            padding-left: 21px;
+            color: #6d6d6d;
+            border-left: 1px solid #6d6d6d;
+        }
 
-		.introduction {
-			font-size: 22px;
-			line-height: 1.82;
-			letter-spacing: 1.6px;
-			text-align: justify;
-			margin-top: 30px;
-		}
+        article>h2 {
+            font-size: 22px;
+            font-weight: bold;
+            letter-spacing: 1.1px;
+            line-height: 1.64;
+            margin-top: 40px;
+        }
 
-		.paragraph {
-			font-size: 18px;
-			line-height: 2.0;
-			letter-spacing: 0.9px;
-			margin-top: 40px;
-		}
+        article figcaption {
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.8px;
+            color: #6d6d6d;
+            margin-top: 15px;
+        }
 
-		h2.inner-block {
-			font-size: 22px;
-			font-weight: bold;
-			letter-spacing: 1.1px;
-			line-height: 1.64;
-			margin-top: 40px;
-		}
+        .author {
+            margin-right: 30px;
+            font-size: 15px;
+            line-height: 2.25;
+        }
 
-		blockquote.inner-block {
-			padding-left: 21px;
-			color: #6d6d6d;
-			border-left: 1px solid #6d6d6d;
-		}
+        .introduction {
+            font-size: 22px;
+            line-height: 1.82;
+            letter-spacing: 1.6px;
+            text-align: justify;
+            margin-top: 30px;
+        }
 
-		.related-block {
-			padding-left: 0;
-			list-style-type: none;
-			margin-top: 60px;
-			margin-bottom: 60px;
-			font-size: 16px;
-			line-height: 2.25;
-			text-align: center;
-			font-weight: bold;
+        .related-block {
+            padding-left: 0;
+            list-style-type: none;
+            margin-top: 60px;
+            margin-bottom: 60px;
+            font-size: 16px;
+            line-height: 2.25;
+            text-align: center;
+            font-weight: bold;
+        }
 
-		}
+        .related-item {
+            background-color: #e1e1e1;
+            height: 80px;
+            margin-top: 20px;
+        }
 
-		.related-item {
-			background-color: #e1e1e1;
-			height: 80px;
-			margin-top: 20px;
-		}
+        footer {
+            width: 100%;
+            background-color: #bfbfbf;
+            text-align: center;
+            padding: 40px 60px 40px 60px;
+        }
 
-		footer {
-			width: 100%;
-			background-color: #bfbfbf;
-			text-align: center;
-			padding: 40px 60px 40px 60px;
-		}
+        .footer-row {
+            margin-bottom: 50px;
+        }
 
-		.footer-row {
-			margin-bottom: 50px;
-		}
+        .footer-cell {
+            display: inline-block;
+        }
 
-		.footer-cell {
-			display: inline-block;
-		}
+        .footer-cell:first-child {
+            margin-right: 75px;
+        }
 
-		.footer-cell:first-child {
-			margin-right: 75px;
-		}
+        .footer-cell>.circle {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background-color: #777;
+            margin: 0 auto;
+        }
 
-		.footer-cell>.circle {
-			width: 36px;
-			height: 36px;
-			border-radius: 50%;
-			background-color: #777;
-			margin: 0 auto;
-		}
+        .footer-cell>.text {
+            margin-top: 15px;
+            font-size: 18px;
+            text-align: center;
+            color: #777;
+        }
 
-		.footer-cell>.text {
-			margin-top: 15px;
-			font-size: 18px;
-			text-align: center;
-			color: #777;
-		}
+        .header {
+            position: relative;
+            margin-top: 17px;
+            margin-bottom: 17px;
+        }
 
-		.header {
-			position: relative;
-			margin-top: 17px;
-			margin-bottom: 17px;
-		}
+        .logo {
+            display: inline-block;
+            width: 100px;
+            height: 25px;
+            background-color: #e1e1e1;
+        }
 
-		.logo {
-			display: inline-block;
-			width: 100px;
-			height: 25px;
-			background-color: #e1e1e1;
-		}
-
-		.menu {
-			display: inline-block;
-			width: 22px;
-			height: 22px;
-			background-color: #e1e1e1;
-			position: absolute;
-			right: 0;
-			top: 50%;
-			transform: translateY(-50%);
-		}
-
-	</style>
+        .menu {
+            display: inline-block;
+            width: 22px;
+            height: 22px;
+            background-color: #e1e1e1;
+            position: absolute;
+            right: 0;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+    </style>
 
 </head>
 
 <body>
-	<div class="header inner-block">
-		<div class="logo"></div>
-		<div class="menu"></div>
-	</div>
-	<article>
-		<header>
-			<span>憂喜玩連字</span>
-			<h1>晃果位生囧，火鳥為存利冥誕肩合相氣零失</h1>
-		</header>
-		<div class="inner-block" style="margin-bottom:15px">
-			<span class="author">文 XXX</span>
-			<span class="author">攝影 XXX</span>
-		</div>
-		<img src="leading.jpeg" alt="leading image of this article" width="100%" />
-		<p class="introduction inner-block">
-			上的去家電夫從入金，問吸了；力中要人朋基重吃因影的學會開方何嚴王紅經到市， 示正假除像土你何加施依邊精一相究眾兒學的一劇；的太去縣分一，間行天， 外人臺兒冷力機得運方房？利看式調痛已和爸時紙物。生量完：先工分家現、 能是安回式太子我院證過當果功眼考問。
-		</p>
-		<p class="paragraph inner-block">
-			今進往的事像自在又治多我求開禮也告我作廣，古了亞，度往廠可至節無， 有以住心哥畫青有受學應小小：日的比亞新是媽心好的要人變辦他且點面。 該聯很道：聽利陽里、不如說手吸的文如出甚位月消許方到行的說小。 排父有法蘭一。子面山收光高長何和師，經過些持了民緊星進，
-			理舉壓全模去家，黑到學驚來居孩？離到高它，想招同黃說友光地嗎是！ 統一小背理……海紀這以們紅受笑工事切無子果護爭面想取一的起所孩須看政打命政； 健成文只員量李。
-		</p>
-		<p class="paragraph inner-block" style="margin-bottom:40px;">
-			這高量源當還社海那防福靈示在容你不像老議的物入教不幾此言。種線是上；心都通的……選何引主一著每無。身山無這情轉年方之；有此臺到談開排上、於雨式在乎，境天了他過想處，之構情美整太，海變了打主廠有居以頭代事歡，區吃國：事有要經話方；工起的名跑合石能醫不著……樓小體歌，的本減我想現臺格情調海期如表有平待。</p>
-		<figure>
-			<img src="img-1.jpeg" alt="leading image of this article" width="100%" />
-			<figcaption class="inner-block">得我母它刻同雨麼都園真上男、不河組專為，那身就的足再人就望業？</figcaption>
-			</figure>
-		<h2 class="inner-block">訃音戲水尾聲已定欣宜</h2>
-		<p class="paragraph inner-block" style="margin-top:30px">
+    <header class="header">
+        <div class="logo"></div>
+        <div class="menu"></div>
+    </header>
+    <article>
+        <header>
+            <span>憂喜玩連字</span>
+            <h1>晃果位生囧，火鳥為存利冥誕肩合相氣零失</h1>
+        </header>
+        <div style="margin-bottom:15px">
+            <span class="author">文 XXX</span>
+            <span class="author">攝影 XXX</span>
+        </div>
+        <figure>
+            <img src="leading.jpeg" alt="leading image of this article" width="100%" />
+        </figure>
+        <p class="introduction">上的去家電夫從入金，問吸了；力中要人朋基重吃因影的學會開方何嚴王紅經到市， 示正假除像土你何加施依邊精一相究眾兒學的一劇；的太去縣分一，間行天， 外人臺兒冷力機得運方房？利看式調痛已和爸時紙物。生量完：先工分家現、 能是安回式太子我院證過當果功眼考問。
+        </p>
+        <p>
+            今進往的事像自在又治多我求開禮也告我作廣，古了亞，度往廠可至節無， 有以住心哥畫青有受學應小小：日的比亞新是媽心好的要人變辦他且點面。 該聯很道：聽利陽里、不如說手吸的文如出甚位月消許方到行的說小。 排父有法蘭一。子面山收光高長何和師，經過些持了民緊星進，
+            理舉壓全模去家，黑到學驚來居孩？離到高它，想招同黃說友光地嗎是！ 統一小背理……海紀這以們紅受笑工事切無子果護爭面想取一的起所孩須看政打命政； 健成文只員量李。
+        </p>
+        <p style="margin-bottom:40px;">
+            這高量源當還社海那防福靈示在容你不像老議的物入教不幾此言。種線是上；心都通的……選何引主一著每無。身山無這情轉年方之；有此臺到談開排上、於雨式在乎，境天了他過想處，之構情美整太，海變了打主廠有居以頭代事歡，區吃國：事有要經話方；工起的名跑合石能醫不著……樓小體歌，的本減我想現臺格情調海期如表有平待。</p>
+        <figure>
+            <img src="img-1.jpeg" alt="leading image of this article" width="100%" />
+            <figcaption>得我母它刻同雨麼都園真上男、不河組專為，那身就的足再人就望業？</figcaption>
+        </figure>
+        <h2>訃音戲水尾聲已定欣宜</h2>
+        <p style="margin-top:30px">
             政聲型？驗須童自拉，教起生性語實叫一父音係這其理委生做向性開畫年；嚴道新現真態實廣以新定行坡資才月；園易每自要壓會公謝室不文條行他意……業感斯裡似見此情各少媽現全消火力藥個說海為是充可口食結自了為心人地麼轉交生上新樓……作料去以養當兒書眾你消就統幾美天就寶一建心司；得我母它刻同雨麼都園真上男、不河組專為，那身就的足再人就望業？著請求是錢，體業失製起總們不中來護和產魚別還活精對速，學賣族會已媽是適歌像運題腳病息為帶，資的林花動檢包大初著了這事農信石家聽放代研了就好發方長是約年施家達想病給常林下。圖和死水不無不在的二會上開解地排讀備了之比有我又苦力之是資花，她濟害是車海明請站拉，著容定中整勢什民！老是頭水全怎有……他中的問我就……年老通醫這類的說戲，息古叫乎，到劇學就行？
         </p>
-		<blockquote class="inner-block paragraph">
+        <blockquote>
             友直刻國與，化水種外展地。年們過灣視世了客光氣河風生開但電人念教示這。續但遠和是布取，來謝下情喜動山形他陽覺，早治度問了點打。居決世具們不像員吃。
         </blockquote>
-		<p class="paragraph inner-block">
+        <p>
             年一健，的斷中者功天兒中來會……不突離示優黃地底位結上和節美：經那都知。民成想流稱：意風以，小法持女影毒印樣正工小？勢里是文利：導些曾，魚朋也老示也議山交如安，會聲高有母黃濟信治曾父化孩來……又的大開甚新馬用書布辦雙小兒法久海操公日險然。看自下？友直刻國與，化水種外展地。年們過灣視世了客光氣河風生開但電人念教示這。續但遠和是布取，來謝下情喜動山形他陽覺，早治度問了點打。居決世具；麼本地我物車象的生道選安兩洲河們不像員吃。
         </p>
-		<p class="paragraph inner-block">
-            就靜發能中然成背要陽國有科加要物的天、有大代我教，從民交望在光商功特我者！百有女公角小、有高性樣紀爸二際輕王麼怎身其他願人技們美南統金物訴原筆把動無，為富眾排樣說水而到工收出他。變海問專到過：然點那其議呢。界樣身文命切明靈設工日們，推點冷國裡、這家破市成來我還公原可才，民人一內臺放大一何因在究女筆唱大……者必資牛發該巴男並如的個校出散紅無態眾說……是能。
-        </p>
-		<ul class="related-block inner-block">
-			<div>延伸閱讀</div>
-			<li class="related-item"></li>
-			<li class="related-item"></li>
-		</ul>
-		<footer>
-			<div class="footer-row">
-				<div class="footer-cell">
-					<div class="circle"></div>
-					<div class="text">關於我們</div>
-				</div>
-				<div class="footer-cell">
-					<div class="circle"></div>
-					<div class="text">聯絡我們</div>
-				</div>
-			</div>
-			<div class="footer-row">
-				<div class="footer-cell">
-					<div class="circle"></div>
-					<div class="text">關於我們</div>
-				</div>
-				<div class="footer-cell">
-					<div class="circle"></div>
-					<div class="text">聯絡我們</div>
-				</div>
-			</div>
-		</footer>
-	</article>
+        <p>就靜發能中然成背要陽國有科加要物的天、有大代我教，從民交望在光商功特我者！百有女公角小、有高性樣紀爸二際輕王麼怎身其他願人技們美南統金物訴原筆把動無，為富眾排樣說水而到工收出他。變海問專到過：然點那其議呢。界樣身文命切明靈設工日們，推點冷國裡、這家破市成來我還公原可才，民人一內臺放大一何因在究女筆唱大……者必資牛發該巴男並如的個校出散紅無態眾說……是能。</p>
+        <ul class="related-block">
+            <div>延伸閱讀</div>
+            <li class="related-item"></li>
+            <li class="related-item"></li>
+        </ul>
+        <footer>
+            <div class="footer-row">
+                <div class="footer-cell">
+                    <div class="circle"></div>
+                    <div class="text">關於我們</div>
+                </div>
+                <div class="footer-cell">
+                    <div class="circle"></div>
+                    <div class="text">聯絡我們</div>
+                </div>
+            </div>
+            <div class="footer-row">
+                <div class="footer-cell">
+                    <div class="circle"></div>
+                    <div class="text">關於我們</div>
+                </div>
+                <div class="footer-cell">
+                    <div class="circle"></div>
+                    <div class="text">聯絡我們</div>
+                </div>
+            </div>
+        </footer>
+    </article>
 </body>
 
 </html>
