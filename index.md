@@ -8,7 +8,7 @@
 ### [3/15 基礎新聞網頁設計](https://nickhsine.github.io/teach-at-nccu/2018-03-15)
 
   
-### [3/22 基礎網頁製作](https://nickhsine.github.io/teach-at-nccu/2018-03-22)
+### [3/22 基礎網頁製作](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/index.md)
   
 ### 3/29 靜態新聞網頁製作
   - CSS 樣式表串接樣式表入門
