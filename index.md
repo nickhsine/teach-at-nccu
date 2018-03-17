@@ -8,11 +8,7 @@
 ### [3/15 基礎新聞網頁設計](https://nickhsine.github.io/teach-at-nccu/2018-03-15)
 
   
-### 3/22 基礎網頁製作
-  - 網頁概要
-  - 網頁開發工具
-  - 國內外新聞網站範例
-  - HTML 標記語言入門    
+### [3/22 基礎網頁製作](https://nickhsine.github.io/teach-at-nccu/2018-03-22)
   
 ### 3/29 靜態新聞網頁製作
   - CSS 樣式表串接樣式表入門
