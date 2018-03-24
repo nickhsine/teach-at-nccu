@@ -6,14 +6,10 @@
 ### [3/8 數位專題運作流程分享](https://nickhsine.github.io/teach-at-nccu/2018-03-08)
 
 ### [3/15 基礎新聞網頁設計](https://nickhsine.github.io/teach-at-nccu/2018-03-15)
-
   
-### [3/22 基礎網頁製作](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-03-22.md)
+### [3/22 基礎新聞網頁製作 - 學習如何使用 HTML 編寫網頁](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-03-22.md)
   
-### 3/29 靜態新聞網頁製作
-  - CSS 樣式表串接樣式表入門
-  - 實作新聞網頁要素
-  - 大標、副標、前言、小標、內文、影像、抽言等 
+### [3/29 新聞網頁排版（手機版）- 學習如何使用 CSS 編排網頁](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-03-29.md)
   
 ### 4/5 放假
   
