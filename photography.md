@@ -59,6 +59,10 @@
 
 ### 技術上的限制
 #### 影片
+* 檔案格式<br/>
+各個瀏覽器之間可支援的影片[檔案格式不同](https://www.w3schools.com/tags/tag_video.asp)。<br/>
+所以影片至少要轉出 `webm` 和 `MPEG-4/H.264` 的檔案格式。
+
 * 自動播放(autoplay)<br/>
   * iPhone, iPad 等行動載具不提供自動播放。要自動播放，可以，但要靜音。
   
