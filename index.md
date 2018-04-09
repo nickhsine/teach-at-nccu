@@ -13,7 +13,7 @@
   
 ### 4/5 放假
   
-### [4/12 使用者經驗設計流程和進階新聞網頁設計](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-12.md)
+### [4/12 使用者經驗設計流程和響應式網頁設計](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-12.md)
   
 ### 4/19 響應式網頁製作
   - 瀏覽器 Chrome devtools 使用說明
