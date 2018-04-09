@@ -13,16 +13,7 @@
   
 ### 4/5 放假
   
-### 4/12 網頁設計原則和進階新聞網頁設計
-  - 設計原則及理論分析（講者遠端授課）
-  - 進階新聞網頁元素設計（聲音、影片、slideshow ...等等）
-  - 長文設計
-  - 圖表設計及製作
-  
-    使用工具：Illustrator
-  - 響應式網頁設計（Responsive Web Design）
-  
-    使用工具：Photoshop/Zeplin
+### [4/12 網頁設計原則和進階新聞網頁設計](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-12.md)
   
 ### 4/19 響應式網頁製作
   - 瀏覽器 Chrome devtools 使用說明
