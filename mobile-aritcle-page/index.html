@@ -10,15 +10,24 @@
             box-sizing: border-box;
         }
 
-
         body {
             font-family: "Microsoft JhengHei", "Noto Sans TC", "PingFang TC", "Apple LiGothic Medium", Roboto, "Lucida Grande", "Lucida Sans Unicode", sans-serif;
             background-color: #fff;
         }
 
+        a {
+            color: #2d2d2d;
+            text-decoration: none;
+            border-bottom: 1px solid #c71b0a;
+        }
+
         header {
             max-width: calc(270/320*100%);
             margin: 0 auto;
+        }
+
+        header>table {
+            width: 100%;
         }
 
         header>span {
@@ -33,6 +42,7 @@
             font-weight: bold;
             line-height: 1.32;
         }
+
 
         article {
             color: #2d2d2d;
@@ -49,7 +59,7 @@
         article figcaption,
         article>div,
         article>header {
-            max-width: calc(281/320*100%);
+            max-width: calc(270/320*100%);
             margin: 0 auto;
         }
 
@@ -83,6 +93,18 @@
             margin-top: 15px;
         }
 
+        footer {
+            width: 100%;
+            background-color: #bfbfbf;
+            text-align: center;
+            padding: 40px 60px 40px 60px;
+        }
+
+        footer>table {
+            border-spacing: 45px;
+            width: 100%;
+        }
+
         .author {
             margin-right: 30px;
             font-size: 15px;
@@ -114,26 +136,7 @@
             margin-top: 20px;
         }
 
-        footer {
-            width: 100%;
-            background-color: #bfbfbf;
-            text-align: center;
-            padding: 40px 60px 40px 60px;
-        }
-
-        .footer-row {
-            margin-bottom: 50px;
-        }
-
-        .footer-cell {
-            display: inline-block;
-        }
-
-        .footer-cell:first-child {
-            margin-right: 75px;
-        }
-
-        .footer-cell>.circle {
+        .footer-circle {
             width: 36px;
             height: 36px;
             border-radius: 50%;
@@ -141,7 +144,7 @@
             margin: 0 auto;
         }
 
-        .footer-cell>.text {
+        .footer-text {
             margin-top: 15px;
             font-size: 18px;
             text-align: center;
@@ -149,13 +152,11 @@
         }
 
         .header {
-            position: relative;
             margin-top: 17px;
             margin-bottom: 17px;
         }
 
         .logo {
-            display: inline-block;
             width: 100px;
             height: 25px;
             background-color: #e1e1e1;
@@ -166,10 +167,8 @@
             width: 22px;
             height: 22px;
             background-color: #e1e1e1;
-            position: absolute;
-            right: 0;
-            top: 50%;
-            transform: translateY(-50%);
+            vertical-align: top;
+            text-align: right;
         }
     </style>
 
@@ -177,8 +176,18 @@
 
 <body>
     <header class="header">
-        <div class="logo"></div>
-        <div class="menu"></div>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <div class="logo"></div>
+                    </td>
+                    <td style="text-align: right;">
+                        <div class="menu"></div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
     </header>
     <article>
         <header>
@@ -186,8 +195,8 @@
             <h1>晃果位生囧，火鳥為存利冥誕肩合相氣零失</h1>
         </header>
         <div style="margin-bottom:15px">
-            <span class="author">文 XXX</span>
-            <span class="author">攝影 XXX</span>
+            <span class="author">文 <b><a href="https://www.twreporter.org/author/571de7b7dae62379576d7f35" target="_blank">陳貞樺</a></b></span>
+            <span class="author">攝影 <b><a href="https://www.twreporter.org/author/5733e89d8c0c261000b3f6f3" target="_blank">林佑恩</a></b></span>
         </div>
         <figure>
             <img src="leading.jpeg" alt="leading image of this article" width="100%" />
@@ -221,26 +230,30 @@
             <li class="related-item"></li>
         </ul>
         <footer>
-            <div class="footer-row">
-                <div class="footer-cell">
-                    <div class="circle"></div>
-                    <div class="text">關於我們</div>
-                </div>
-                <div class="footer-cell">
-                    <div class="circle"></div>
-                    <div class="text">聯絡我們</div>
-                </div>
-            </div>
-            <div class="footer-row">
-                <div class="footer-cell">
-                    <div class="circle"></div>
-                    <div class="text">關於我們</div>
-                </div>
-                <div class="footer-cell">
-                    <div class="circle"></div>
-                    <div class="text">聯絡我們</div>
-                </div>
-            </div>
+            <table style="width: 100%; border-spacing: 48px;">
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="footer-circle"></div>
+                            <div class="footer-text">關於我們</div>
+                        </td>
+                        <td>
+                            <div class="footer-circle"></div>
+                            <div class="footer-text">聯絡我們</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="footer-circle"></div>
+                            <div class="footer-text">關於我們</div>
+                        </td>
+                        <td>
+                            <div class="footer-circle"></div>
+                            <div class="footer-text">聯絡我們</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </footer>
     </article>
 </body>
