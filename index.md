@@ -22,9 +22,9 @@
 ### [4/19 版面各種對齊和響應式網頁製作（一）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-19.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-19.zip)
 
-### 4/26 響應式網頁製作（二）和多媒體網頁製作
+### 4/26 版面各種對齊和響應式網頁製作（二）
 
-### 5/3 如何使用樣板套件和他站服務？
+### 5/3 多媒體網頁製作和如何使用樣板套件和他站服務？
   - Open source 簡介
   - Bootstrap 樣板套件教學
   - 如何鑲嵌他站網頁內容？
