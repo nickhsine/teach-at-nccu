@@ -19,10 +19,10 @@
 ### [4/12 使用者經驗設計流程和進階新聞網頁設計](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-12.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-12.zip)
   
-### [4/19 響應式網頁和多媒體網頁製作（一）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-19.md)
+### [4/19 版面各種對齊和響應式網頁製作（一）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-19.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-19.zip)
 
-### 4/26 響應式網頁和多媒體網頁製作（二）
+### 4/26 響應式網頁製作（二）和多媒體網頁製作
 
 ### 5/3 如何使用樣板套件和他站服務？
   - Open source 簡介
