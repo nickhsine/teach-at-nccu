@@ -22,7 +22,8 @@
 ### [4/19 網頁排版和響應式網頁製作（一）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-19.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-19.zip)
 
-### 4/26 網頁排版和響應式網頁製作（二）
+### [4/26 網頁排版和響應式網頁製作（二）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-26.md)
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-26.zip)
 
 ### 5/3 多媒體網頁製作和如何使用樣板套件和他站服務？
   - Open source 簡介
