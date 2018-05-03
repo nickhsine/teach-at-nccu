@@ -4,47 +4,28 @@
 ### 3/1 課程介紹及加退選
 
 ### [3/8 數位專題運作流程分享](https://nickhsine.github.io/teach-at-nccu/2018-03-08)
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-03-08.zip)
 
 ### [3/15 基礎新聞網頁設計](https://nickhsine.github.io/teach-at-nccu/2018-03-15)
-
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-03-15.zip)
   
-### 3/22 基礎網頁製作
-  - 網頁概要
-  - 網頁開發工具
-  - 國內外新聞網站範例
-  - HTML 標記語言入門    
+### [3/22 基礎新聞網頁製作 - 學習如何使用 HTML 編寫網頁](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-03-22.md)
   
-### 3/29 靜態新聞網頁製作
-  - CSS 樣式表串接樣式表入門
-  - 實作新聞網頁要素
-  - 大標、副標、前言、小標、內文、影像、抽言等 
+### [3/29 新聞網頁排版（手機版）- 學習如何使用 CSS 編排網頁](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-03-29.md)
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-19.zip)
   
 ### 4/5 放假
   
-### 4/12 網頁設計原則和進階新聞網頁設計
-  - 設計原則及理論分析（講者遠端授課）
-  - 進階新聞網頁元素設計（聲音、影片、slideshow ...等等）
-  - 長文設計
-  - 圖表設計及製作
+### [4/12 使用者經驗設計流程和進階新聞網頁設計](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-12.md)
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-12.zip)
   
-    使用工具：Illustrator
-  - 響應式網頁設計（Responsive Web Design）
-  
-    使用工具：Photoshop/Zeplin
-  
-### 4/19 響應式網頁製作
-  - 瀏覽器 Chrome devtools 使用說明
-  - 網頁元素如何對齊？
-  - CSS Flexbox
-  - CSS Media Query
-  
-### 4/26 多媒體網頁製作
-  - 影像裁切及壓縮
-  - 影片壓縮
-  - 如何使用網頁呈現影像、聲音和影片？
-  - 響應式影像和影像畫質自動選取
+### [4/19 網頁排版和響應式網頁製作（一）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-19.md)
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-19.zip)
 
-### 5/3 如何使用樣板套件和他站服務？
+### [4/26 網頁排版和響應式網頁製作（二）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-26.md)
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-26.zip)
+
+### 5/3 多媒體網頁製作和如何使用樣板套件和他站服務？
   - Open source 簡介
   - Bootstrap 樣板套件教學
   - 如何鑲嵌他站網頁內容？
