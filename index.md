@@ -26,6 +26,7 @@
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-26.zip)
 
 ### [5/3 多媒體網頁製作和如何使用樣板套件和他站服務？](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-05-03.md)
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-05-03.zip)
  
 ### 5/10 使用者經驗和數位新聞攝影分享
   - 使用者經驗分享（講者遠端授課）
