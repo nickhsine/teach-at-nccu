@@ -25,11 +25,7 @@
 ### [4/26 網頁排版和響應式網頁製作（二）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-26.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-26.zip)
 
-### 5/3 多媒體網頁製作和如何使用樣板套件和他站服務？
-  - Open source 簡介
-  - Bootstrap 樣板套件教學
-  - 如何鑲嵌他站網頁內容？
-  - 使用線上服務產生多媒體網頁要素 (影像左右對照、聲音引述、時間軸故事)
+### [5/3 多媒體網頁製作和如何使用樣板套件和他站服務？](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-05-03.md)
  
 ### 5/10 使用者經驗和數位新聞攝影分享
   - 使用者經驗分享（講者遠端授課）
