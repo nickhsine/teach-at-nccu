@@ -28,7 +28,7 @@
 ### [5/3 多媒體網頁製作和如何使用樣板套件和他站服務？](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-05-03.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-05-03.zip)
  
-### 5/10 使用者經驗和數位新聞攝影分享
+### 5/10 UX業界案例介紹和數位新聞攝影分享
   - [UX業界案例介紹](https://docs.google.com/presentation/d/1xwIf99WHssNA0LMaxbLv-8c-K3d2Vue3TObbZg9a49A/edit?usp=sharing)
   - 報導者新聞攝影分享
   
