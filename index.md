@@ -29,7 +29,7 @@
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-05-03.zip)
  
 ### 5/10 使用者經驗和數位新聞攝影分享
-  - [使用者經驗分享](https://docs.google.com/presentation/d/1xwIf99WHssNA0LMaxbLv-8c-K3d2Vue3TObbZg9a49A/edit?usp=sharing)
+  - [UX業界案例介紹](https://docs.google.com/presentation/d/1xwIf99WHssNA0LMaxbLv-8c-K3d2Vue3TObbZg9a49A/edit?usp=sharing)
   - 報導者新聞攝影分享
   
 ### 5/17 動態網頁設計
