@@ -35,6 +35,7 @@
 ### 5/17 動態網頁設計
   - 案例分享
   - [大尾鱸鰻](https://www.twreporter.org/i/infographic-far-sea-fishing) step by step 教學
+  - [設計元素](https://storage.googleapis.com/teach-at-nccu/baby's%20death-nick.zip)
 
 ### 5/24 動態網頁製作
   - CSS transition 介紹
