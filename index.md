@@ -36,12 +36,7 @@
   - [動態網頁設計投影片](https://storage.googleapis.com/teach-at-nccu/20180517/web-page-animation-design.pdf)
   - [消逝的孩子 - 設計元素](https://storage.googleapis.com/teach-at-nccu/baby's%20death-nick.zip)
 
-### 5/24 動態網頁製作
-  - CSS transition 介紹
-  - SVG 入門
-  - 如何讓網頁動起來？
-  - 套用 Animate.css
-  - 大尾鱸鰻網頁製作 step by step
+### [5/24 動態網頁製作](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-05-24.md)
 
 ### 5/31 新聞網站設計
   - 版面設計教學（主網站、文章頁、列表頁）
