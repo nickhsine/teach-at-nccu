@@ -37,6 +37,7 @@
   - [消逝的孩子 - 設計元素](https://storage.googleapis.com/teach-at-nccu/baby's%20death-nick.zip)
 
 ### [5/24 動態網頁製作](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-05-24.md)
+  - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-05-24.zip)
 
 ### 5/31 新聞網站設計
   - 版面設計教學（主網站、文章頁、列表頁）
