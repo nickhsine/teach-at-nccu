@@ -41,16 +41,15 @@
 
 ### 5/31 分組報告和課堂討論
 
-### 6/7 新聞網站製作
-  - 網站 SEO（Search Engine Optimization）
-  - CMS (Content Management System)
-  - 社群網路分享（Open Graph）
-
-### 6/14 如何架設網站？
+### 6/7 如何架設網站？
   - wordpress
   - medium
   - github
   - 架站大小事及優缺點分析
+  
+### 6/14 搜尋引擎最佳化和社群網路分享
+  - 網站 SEO（Search Engine Optimization）
+  - 社群網路分享（Open Graph）
 
 ### 6/21 網站後續成效分析
   - 網站分析工具應用
