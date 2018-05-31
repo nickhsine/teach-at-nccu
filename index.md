@@ -45,6 +45,7 @@
   - wordpress
   - medium
   - github
+  - [G SUIT] use google product to create websites
   - 架站大小事及優缺點分析
   
 ### 6/14 搜尋引擎最佳化和社群網路分享
