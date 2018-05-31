@@ -39,15 +39,12 @@
 ### [5/24 動態網頁製作](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-05-24.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-05-24.zip)
 
-### 5/31 新聞網站設計
-  - 版面設計教學（主網站、文章頁、列表頁）
-  - 使用工具：Photoshop/Zeplin
+### 5/31 分組報告和課堂討論
 
 ### 6/7 新聞網站製作
   - 網站 SEO（Search Engine Optimization）
   - CMS (Content Management System)
   - 社群網路分享（Open Graph）
-  
 
 ### 6/14 如何架設網站？
   - wordpress
