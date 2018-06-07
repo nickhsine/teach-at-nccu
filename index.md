@@ -41,12 +41,7 @@
 
 ### [5/31 分組報告和課堂討論](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-05-31.md)
 
-### 6/7 如何架設網站？
-  - wordpress
-  - medium
-  - github
-  - [G SUIT] use google product to create websites
-  - 架站大小事及優缺點分析
+### [6/7 外部套件使用和設計版型實作](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-06-07.md)
   
 ### 6/14 搜尋引擎最佳化和社群網路分享
   - 網站 SEO（Search Engine Optimization）
