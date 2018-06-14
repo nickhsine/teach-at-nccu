@@ -44,8 +44,9 @@
 ### [6/7 外部套件使用和設計版型實作](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-06-07.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-06-07.zip)
   
-### 6/14 搜尋引擎最佳化和社群網路分享
-  - 網站 SEO（Search Engine Optimization）
+### [6/14 網頁上架與社群分享](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-06-14.md)
+  - 使用 github.io 上架網站
+  - 搜尋引擎最佳化，網站 SEO（Search Engine Optimization）
   - 社群網路分享（Open Graph）
 
 ### 6/21 網站後續成效分析
