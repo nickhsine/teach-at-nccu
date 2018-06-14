@@ -46,7 +46,6 @@
   
 ### [6/14 網頁上架與社群分享](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-06-14.md)
   - 使用 github.io 上架網站
-  - 搜尋引擎最佳化，網站 SEO（Search Engine Optimization）
   - 社群網路分享（Open Graph）
 
 ### 6/21 網站後續成效分析
