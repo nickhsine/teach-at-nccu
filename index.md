@@ -48,7 +48,7 @@
   - 使用 github.io 上架網站
   - 社群網路分享（Open Graph）
 
-### 6/21 [網站後續成效分析](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-06-21.md)
+### 6/21 網站後續成效分析
   - Google Analytics 串接
   - Hotjar 使用
   
