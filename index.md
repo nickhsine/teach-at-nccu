@@ -48,9 +48,8 @@
   - 使用 github.io 上架網站
   - 社群網路分享（Open Graph）
 
-### 6/21 網站後續成效分析
-  - 網站分析工具應用
-  - 如何解讀 Google Analytics？
+### 6/21 [網站後續成效分析](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-06-21.md)
+  - Google Analytics 串接
   - Hotjar 使用
   
 ### 6/28 期末作品呈現
@@ -92,15 +91,4 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-121179972-1');
-</script>
-<!-- Hotjar Tracking Code for https://nickhsine.github.io/ -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:923507,hjsv:6};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
