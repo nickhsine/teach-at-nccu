@@ -83,3 +83,13 @@
   - 《報導者》社群編輯
   - 《中央通訊社》數位編輯
   - 政大新聞系畢
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121179972-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121179972-1');
+</script>
