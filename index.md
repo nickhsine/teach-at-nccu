@@ -49,6 +49,7 @@
   - 社群網路分享（Open Graph）
 
 ### 6/21 網站後續成效分析
+  - [報導者社群編輯分享](https://docs.google.com/presentation/d/1bKZ6Y-tm1xVxhw73AV4283y18EBabhJKu2mq7_aKDQ0/edit#slide=id.g35fb352db6_0_146)
   - Google Analytics 串接
   - Hotjar 使用
   
