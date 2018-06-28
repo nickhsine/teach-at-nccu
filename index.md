@@ -53,8 +53,9 @@
   - Google Analytics 串接
   - Hotjar 使用
   
-### 6/28 期末作品呈現
-
+### [6/28 期末作品呈現]
+  - 第三組： [https://czx2110.github.io/The-third/menu-1.html](https://czx2110.github.io/The-third/menu-1.html)
+  - 第六組： [https://stevenmanto.github.io/communication/home](http://stevenmanto.github.io/communication/home)
 
 ## 評分方式
 - 出席：30%
