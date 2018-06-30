@@ -54,8 +54,10 @@
   - Hotjar 使用
   
 ### [6/28 期末作品呈現]
+  - 第一組： [Paradise of Sport](https://m29548633.github.io/aloha/paradise%20of%20sport.html)
   - 第二組： [7pupu](https://jennychen850712.github.io/7pupu/list/list.html)
   - 第三組： [第三者](https://czx2110.github.io/The-third/menu-1.html)
+  - 第四組： [NCCU News](https://cathylauratseng.github.io/nccu-news-2/home_page.html)
   - 第五組： [爆肝者](https://wenrongchang.github.io/Crazy-all-nighter/104405016/index.html)
   - 第六組： [666](http://stevenmanto.github.io/communication/home)
   - 第七組： [超公制](https://ienming.github.io/existemDCT/index.html)
