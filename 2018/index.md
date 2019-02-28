@@ -3,26 +3,26 @@
 ## 課程大綱
 ### 3/1 課程介紹及加退選
 
-### [3/8 數位專題運作流程分享](https://nickhsine.github.io/teach-at-nccu/2018-03-08)
+### [3/8 數位專題運作流程分享](https://nickhsine.github.io/teach-at-nccu/2018/03-08)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-03-08.zip)
 
-### [3/15 基礎新聞網頁設計](https://nickhsine.github.io/teach-at-nccu/2018-03-15)
+### [3/15 基礎新聞網頁設計](https://nickhsine.github.io/teach-at-nccu/2018/03-15)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-03-15.zip)
   
-### [3/22 基礎新聞網頁製作 - 學習如何使用 HTML 編寫網頁](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-03-22.md)
+### [3/22 基礎新聞網頁製作 - 學習如何使用 HTML 編寫網頁](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018/03-22.md)
   
-### [3/29 新聞網頁排版（手機版）- 學習如何使用 CSS 編排網頁](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-03-29.md)
+### [3/29 新聞網頁排版（手機版）- 學習如何使用 CSS 編排網頁](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018/03-29.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-19.zip)
   
 ### 4/5 放假
   
-### [4/12 使用者經驗設計流程和進階新聞網頁設計](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-12.md)
+### [4/12 使用者經驗設計流程和進階新聞網頁設計](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018/04-12.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-12.zip)
   
-### [4/19 網頁排版和響應式網頁製作（一）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-19.md)
+### [4/19 網頁排版和響應式網頁製作（一）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018/04-19.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-19.zip)
 
-### [4/26 網頁排版和響應式網頁製作（二）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018-04-26.md)
+### [4/26 網頁排版和響應式網頁製作（二）](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2018/04-26.md)
   - [課堂教材下載](https://storage.googleapis.com/teach-at-nccu/2018-04-26.zip)
 
 ### 5/3 多媒體網頁製作和如何使用樣板套件和他站服務？
