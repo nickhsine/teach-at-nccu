@@ -1,6 +1,6 @@
 # 新聞平台運作實務 
 ## 授課課綱
-* **3/7 [課程介紹及加退選](https://github.com/nickhsine/teach-at-nccu/blob/master/2019/03-07.md)**
+* **3/7 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/2019/03-07)**
 * **3/14 敏捷式開發（一）**
 * **3/21 敏捷式開發（二）／設計思考（一）**
 * **3/28 設計思考（二）**
