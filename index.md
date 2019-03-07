@@ -1,4 +1,5 @@
 # 新聞平台運作實務 
+<img src="/teach-at-nccu/assets/qr-code-for-teach-at-nccu.png" width="200px" height="200px"></img>
 ## 授課課綱
 * **3/7 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/2019/03-07)**
 * **3/14 敏捷式開發（一）**
