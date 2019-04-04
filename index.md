@@ -3,9 +3,9 @@
 
 ## 授課課綱
 * **3/7 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/2019/03-07)**
-* **3/14 [設計思考（一）](https://nickhsine.github.io/teach-at-nccu/2019/03-14)**
-* **3/21 設計思考（二）／敏捷式開發（一）**
-* **3/28 敏捷式開發（二）**
+* **3/14 [設計思考](https://nickhsine.github.io/teach-at-nccu/2019/03-14)**
+* **3/21 [敏捷式開發（一）](https://nickhsine.github.io/teach-at-nccu/2019/agile/index.html)**
+* **3/28 [敏捷式開發（二）](https://nickhsine.github.io/teach-at-nccu/2019/agile/index.html)**
 * **4/4 放假**
 * **4/11 新聞網頁設計 - Figma 與 Zeplin**
 * **4/18 新聞網頁製作 （一） - HTML 標記式語言**
