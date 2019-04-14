@@ -4,10 +4,16 @@
 ## 授課課綱
 * **3/7 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/2019/03-07)**
 * **3/14 [設計思考](https://nickhsine.github.io/teach-at-nccu/2019/03-14)**
-* **3/21 [敏捷式開發（一）](https://nickhsine.github.io/teach-at-nccu/2019/agile/index.html)**
-* **3/28 [敏捷式開發（二）](https://nickhsine.github.io/teach-at-nccu/2019/agile/index.html)**
+* **3/21 敏捷式開發（一）**    
+* **3/28 敏捷式開發（二）**
+     - [網頁版](https://nickhsine.github.io/teach-at-nccu/2019/agile/index.html)
+     - [下載 Keynote](https://nickhsine.github.io/teach-at-nccu/assets/2019-03-21/introduction-to-agile.key)
+     - [下載 PowerPoint](https://nickhsine.github.io/teach-at-nccu/assets/2019-03-21/introduction-to-agile.pptx)
 * **4/4 放假**
 * **4/11 新聞網頁設計 - Figma 與 Zeplin**
+     - [網頁版](https://nickhsine.github.io/teach-at-nccu/2019/introduction-of-user-interface/index.html)
+     - [下載 Keynote](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/assets/2019-04-11/introduction-to-user-interface-by-gina.key)
+     - [下載 PowerPoint](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/assets/2019-04-11/introduction-to-user-interface-by-gina.pptx)
 * **4/18 新聞網頁製作 （一） - HTML 標記式語言**
 * **4/25 新聞網頁製作（二）- CSS 網頁排版**
 * **5/2 分享期末作品的規劃**
