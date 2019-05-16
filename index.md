@@ -18,7 +18,7 @@
 * [**4/25 新聞網頁製作（二）- CSS 網頁排版**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/04-25.md)
 * **5/2 分享期末作品的規劃**
 * [**5/9 新聞網頁製作（三）- Responsive Web Design 響應式網頁**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/05-09.md)
-* **5/16 新聞網頁製作（四）- Multimedia(video, audio, image, map …etc) 多媒體元素**
+* [**5/16 新聞網頁製作（四）- Multimedia(video, audio, image, map …etc) 多媒體元素**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/05-16.md)
 * **5/23 新聞視覺化 -  新聞表格、插畫與資料新聞**
 * **5/30 新聞網頁製作（五）- 互動式網頁（套用 Bootstrap）**
 * **6/6 新聞網頁製作（六）- Git, GitHub**
