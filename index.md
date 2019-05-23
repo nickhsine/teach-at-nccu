@@ -20,6 +20,7 @@
 * [**5/9 新聞網頁製作（三）- Responsive Web Design 響應式網頁**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/05-09.md)
 * [**5/16 新聞網頁製作（四）- Multimedia(video, audio, image, map …etc) 多媒體元素**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/05-16.md)
 * **5/23 新聞視覺化 -  新聞表格、插畫與資料新聞**
+     - [上課教材](https://drive.google.com/drive/u/0/folders/11pQRAczmMg7Z_nENuk1O5ox50oWQk_5Q)
 * **5/30 新聞網頁製作（五）- 互動式網頁（套用 Bootstrap）**
 * **6/6 新聞網頁製作（六）- Git, GitHub**
 * **6/13 使用者經驗**
