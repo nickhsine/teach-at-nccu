@@ -23,7 +23,7 @@
      - [上課PDF](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/assets/2019-05-23/%E6%96%B0%E8%81%9E%E8%A6%96%E8%A6%BA%E5%8C%96-2019-05-23.pdf)
      - [上課教材](https://drive.google.com/drive/u/0/folders/11pQRAczmMg7Z_nENuk1O5ox50oWQk_5Q)
 * [**5/30 新聞網頁製作（五）- 互動式網頁（套用 Framework）**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/05-30.md)
-* [**6/6 新聞網頁製作（六）- Git, GitHub**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/06-06.md)
+* [**6/6 新聞網頁製作（六）- 使用 GitHub 部署網頁**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/06-06.md)
 * **6/13 使用者經驗**
 * **6/20 新聞企劃與新聞攝影分享**
 * **6/27 期末作品呈現**
