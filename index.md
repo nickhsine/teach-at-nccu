@@ -24,8 +24,9 @@
      - [上課教材](https://drive.google.com/drive/u/0/folders/11pQRAczmMg7Z_nENuk1O5ox50oWQk_5Q)
 * [**5/30 新聞網頁製作（五）- 互動式網頁（套用 Framework）**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/05-30.md)
 * [**6/6 新聞網頁製作（六）- 使用 GitHub 部署網頁**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/06-06.md)
-* **6/13 使用者經驗**
-* **6/20 新聞企劃與新聞攝影分享**
+* **6/13 新聞企劃與新聞攝影分享**
+     - [企劃怎麼了？](https://docs.google.com/presentation/d/1gdCy5ldvOrJz55F4mXuG1HQ0ogbVex55ZPV9Xf9gdF0/edit#slide=id.p)
+* **6/20 使用者經驗**
 * **6/27 期末作品呈現**
 
 ## 評分方式
