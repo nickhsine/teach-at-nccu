@@ -26,6 +26,7 @@
 * [**6/6 新聞網頁製作（六）- 使用 GitHub 部署網頁**](https://github.com/nickhsine/teach-at-nccu/blob/gh-pages/2019/06-06.md)
 * **6/13 新聞企劃與新聞攝影分享**
      - [企劃怎麼了？](https://docs.google.com/presentation/d/1gdCy5ldvOrJz55F4mXuG1HQ0ogbVex55ZPV9Xf9gdF0/edit#slide=id.p)
+     - [新聞攝影與多媒體敘事](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/assets/2019-06-13/news-photo-and-multimedia.pdf)
 * **6/20 使用者經驗**
      - [上課PDF](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/assets/2019-06-20/User-Experience-2019-06-20.pdf)
 * **6/27 期末作品呈現**
