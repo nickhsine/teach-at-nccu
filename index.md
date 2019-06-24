@@ -27,7 +27,7 @@
 * **6/13 新聞企劃與新聞攝影分享**
      - [企劃怎麼了？](https://docs.google.com/presentation/d/1gdCy5ldvOrJz55F4mXuG1HQ0ogbVex55ZPV9Xf9gdF0/edit#slide=id.p)
 * **6/20 使用者經驗**
-     - [pdf 下載](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/assets/2019-06-20/User-Experience-2019-06-20.pdf)
+     - [上課PDF](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/assets/2019-06-20/User-Experience-2019-06-20.pdf)
 * **6/27 期末作品呈現**
 
 ## 評分方式
