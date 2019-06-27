@@ -30,7 +30,14 @@
 * **6/20 使用者經驗**
      - [上課PDF](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/assets/2019-06-20/User-Experience-2019-06-20.pdf)
 * **6/27 期末作品呈現**
-
+     - [第一組](https://unewsintro.github.io/mainpage/finall-web.html)
+     - [第二組](https://k6784ck.github.io/newsweb/mainpage/)
+     - [第三組](https://vertemis.github.io/meant-now/0627/main-page.html)
+     - [第四組](https://lclcrystal.github.io/wanderers/newarticle.html)
+     - [第五組](https://jerry1107.github.io/minsubar/final_pro/entry)
+     - [第六組](https://madalpha16.github.io/Basketball-Stars-of-Asia/亞洲籃球之星/home/homefinal.html)
+     - [第七組](https://smeoxe.github.io/unlucky-sparrow/index.html)
+     
 ## 評分方式
 - 出席（30%）
 - 期中報告（15%）
