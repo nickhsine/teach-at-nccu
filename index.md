@@ -1,6 +1,4 @@
 # 新聞平台運作實務 
-<img src="/teach-at-nccu/assets/qr-code-for-teach-at-nccu.png" width="200px" height="200px" />
-
 ## 授課課綱
 * **2/27 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/2020/02-27)**
 * **3/5 如何使用現成工具製作新聞（網站、網頁和多媒體作品）**
