@@ -1,4 +1,7 @@
 # 新聞平台運作實務 
+## 聯絡方式
+email: nickhsine97753017@gmail.com
+
 ## 授課課綱
 * **2/27 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/2020/02-27)**
 * **3/5 [使用 Figma 設計新聞網頁](https://nickhsine.github.io/teach-at-nccu/2020/03-05)**
