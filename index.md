@@ -8,7 +8,7 @@ email: nickhsine97753017@gmail.com
 * **3/12 [資料新聞](https://bit.ly/38D4mo8) -- 報導者數據記者柯皓翔**
 * **3/19 [Google Sheet 修煉大全](https://docs.google.com/presentation/d/10sJvftUKb6fMz4mteIW86AV-pKe7TVk3Va1R5naMPME/edit#slide=id.p)-- 天下雜誌資料記者陳貞樺**
   * [上課實作練習資料](https://drive.google.com/drive/folders/1AnObch2ZZ9gJwzrWBDhwQI6PLwIwQcnu?usp=sharing)
-* **3/26 [新聞圖表設計暨製作]() -- 報導者設計黃禹禛**
+* **3/26 [新聞圖表設計暨製作](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/2020/0326-%E6%94%BF%E5%A4%A7%E6%96%B0%E8%81%9E%E5%B9%B3%E5%8F%B0%E9%81%8B%E4%BD%9C%E5%AF%A6%E5%8B%99-%E6%96%B0%E8%81%9E%E5%9C%96%E8%A1%A8%E7%9A%84%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80%E8%A1%93.pdf) -- 報導者設計黃禹禛**
   * [上課實作練習資料](https://docs.google.com/spreadsheets/d/1rqV_FSEScc8Hbhz5lRdbA7mh6RZhAeG_SYXWhe4Oc4s/edit#gid=0)
 * **4/2 放假** 
 * **4/9 文字記者實務分享 -- 報導者記者劉致昕**
