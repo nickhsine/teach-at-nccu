@@ -11,8 +11,8 @@ email: nickhsine97753017@gmail.com
 * **3/26 [新聞圖表設計暨製作](https://github.com/nickhsine/teach-at-nccu/raw/gh-pages/2020/0326-%E6%94%BF%E5%A4%A7%E6%96%B0%E8%81%9E%E5%B9%B3%E5%8F%B0%E9%81%8B%E4%BD%9C%E5%AF%A6%E5%8B%99-%E6%96%B0%E8%81%9E%E5%9C%96%E8%A1%A8%E7%9A%84%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80%E8%A1%93.pdf) -- 報導者設計黃禹禛**
   * [上課實作練習資料](https://docs.google.com/spreadsheets/d/1rqV_FSEScc8Hbhz5lRdbA7mh6RZhAeG_SYXWhe4Oc4s/edit#gid=0)
 * **4/2 放假** 
-* **4/9 [新聞網頁製作(一) - HTML 標記式語言**](https://nickhsine.github.io/teach-at-nccu/2020/04-09)
-* **4/16 新聞網頁製作(二)- CSS 網頁排版**
+* **4/9 [新聞網頁製作(一) - HTML 標記式語言](https://nickhsine.github.io/teach-at-nccu/2020/04-09)**
+* **4/16 [新聞網頁製作(二)- CSS 串接樣式表](https://nickhsine.github.io/teach-at-nccu/2020/04-16)**
 * **4/23 新聞網頁製作(三)- 網頁鑲嵌元素**
 * **4/30 新聞網頁製作(四)- Responsive Web Design 響應式網頁**
 * **5/7 新聞網頁製作(五)- Multimedia(video, audio, image, map ...etc) 多媒體元素**
