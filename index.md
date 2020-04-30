@@ -14,7 +14,7 @@ email: nickhsine97753017@gmail.com
 * **4/9 [新聞網頁製作(一) - HTML 標記式語言](https://nickhsine.github.io/teach-at-nccu/2020/04-09)**
 * **4/16 [新聞網頁製作(二)- CSS 串接樣式表](https://nickhsine.github.io/teach-at-nccu/2020/04-16)**
 * **4/23 [新聞網頁製作(三)- CSS 選擇器與基礎網頁排版](https://hackmd.io/ccO-gvxFR5-49q3ePoNJkg)**
-* **4/30 新聞網頁製作(四)- Responsive Web Design 響應式網頁**
+* **4/30 [新聞網頁製作(四)- CSS Position 與 Flexbox 排版](https://hackmd.io/i1uBelrpRv2Uz5emQawIiw)**
 * **5/7 新聞網頁製作(五)- Multimedia(video, audio, image, map ...etc) 多媒體元素**
 * **5/14 文字記者實務分享 -- 報導者記者劉致昕**
 * **5/21 新聞靜態攝影分享 -- 報導者攝影主任余志偉**
