@@ -18,6 +18,8 @@ email: nickhsine97753017@gmail.com
 * **5/7 [新聞網頁製作(五)- Responsive Web Design 響應式網頁](https://hackmd.io/ojTXG2s0RQaJz85goqIz1w)**
 * **5/14 文字記者實務分享 -- 報導者記者劉致昕**
 * **5/21 新聞靜態攝影分享 -- 報導者攝影主任余志偉**
+  * [上課任務提示連結](https://docs.google.com/presentation/d/e/2PACX-1vTTr5ZqkH4WjD3rMtdMcDGh_5vrp8tXkNozzNcH8AfiQkr-6gB-pK1DQ-UEOT1HBlL9tFmanhT6gfeN/pub?start=true&loop=false&delayms=3000&slide=id.g86f21e12e2_0_0)
+  * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vS49D4G7_h5HVmlF3kL7ttN6U67Oazt7RMiY0Yrf1ZmO5si1L4Qml_KePhPVzWAqD_aX3Liy8QKX9kG/pub?start=true&loop=false&delayms=3000)
 * **5/28 新聞動態攝影分享 -- 報導者攝影記者蘇威銘**
 * **6/4 新聞網頁製作(六)- 網頁動態效果**
 * **6/11 新聞網頁製作(七)- 使用 GitHub 部署網頁**
