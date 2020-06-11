@@ -22,7 +22,7 @@ email: nickhsine97753017@gmail.com
   * [上課簡報](https://docs.google.com/presentation/d/e/2PACX-1vS49D4G7_h5HVmlF3kL7ttN6U67Oazt7RMiY0Yrf1ZmO5si1L4Qml_KePhPVzWAqD_aX3Liy8QKX9kG/pub?start=true&loop=false&delayms=3000)
 * **5/28 [新聞網頁製作(六)- 多媒體元素與動態效果](https://hackmd.io/J_YYk1YUSum1x3fVo75PXA)**
 * **6/4 新聞動態攝影分享 -- 報導者攝影記者蘇威銘**
-* **6/11 新聞網頁製作(七)- 使用 GitHub 部署網頁**
+* **6/11 [新聞網頁製作(七)- 使用 GitHub 部署網頁](https://hackmd.io/P9N34oIwS2G6Mfhag3Rqzg)**
 * **6/18 期末報告**
 
 ## 評分方式
