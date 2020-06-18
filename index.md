@@ -24,6 +24,7 @@ email: nickhsine97753017@gmail.com
 * **6/4 新聞動態攝影分享 -- 報導者攝影記者蘇威銘**
 * **6/11 [新聞網頁製作(七)- 使用 GitHub 部署網頁](https://hackmd.io/P9N34oIwS2G6Mfhag3Rqzg)**
 * **6/18 期末報告**
+  * [課堂回饋表單](https://forms.gle/U9QtGaNWikzo1Fd2A)
 
 ## 評分方式
 - 出席（40%）
