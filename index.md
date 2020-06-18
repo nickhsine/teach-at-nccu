@@ -25,6 +25,10 @@ email: nickhsine97753017@gmail.com
 * **6/11 [新聞網頁製作(七)- 使用 GitHub 部署網頁](https://hackmd.io/P9N34oIwS2G6Mfhag3Rqzg)**
 * **6/18 期末報告**
   * [課堂回饋表單](https://forms.gle/U9QtGaNWikzo1Fd2A)
+  * 第一組：[National Poor Journalist](https://yihuai0806.github.io/1082NPJ/final%20project/yihui/homepage.html)
+  * 第二組：[NickNews](https://yeeeva.github.io/NickNews/index.html)
+  * 第三組：[新聞蒟蒻](https://jellynews.github.io/jn/homepage/homepage.html)
+  * 第四組：[大學報](https://vanishment6122.github.io/website/新聞網站架設/final%20project.html)
 
 ## 評分方式
 - 出席（40%）
