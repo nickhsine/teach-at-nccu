@@ -15,7 +15,7 @@ email: nickhsine97753017@gmail.com
 * **10/27 網頁敘事元件**
 * **11/3 CSS Position 排版**
   * 程式作業（四）
-* **11/10 期中報告 [(https://hackmd.io/ccO-gvxFR5-49q3ePoNJkg)**
+* **11/10 期中報告：網頁敘事元件原型 **
 * **11/16 CSS Flexbox 排版**
 * **11/24 Responsive Web Design 響應式網頁（一）**
   * 程式作業（五）
