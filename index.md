@@ -3,7 +3,7 @@
 email: nickhsine97753017@gmail.com
 
 ## 授課課綱
-* **9/15 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/2020/09-15)**
+* **9/15 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/109-01/09-15)**
 * **9/22 多媒體作品與設計新聞網頁（一）**
   * 作業（一）：選三篇你喜歡的多媒體作品，並說明原因
 * **9/29 設計新聞網頁（二）**
