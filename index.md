@@ -6,8 +6,8 @@ email: nickhsine97753017@gmail.com
 * **9/15 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/109-01/09-15)**
 * **9/22 [設計新聞網頁（一）](https://nickhsine.github.io/teach-at-nccu/109-01/09-22/)**
   * 作業（一）：選三篇你喜歡的多媒體作品，並說明原因
-* **9/29 設計新聞網頁（二）**
-  * 作業（二）：設計你的新聞網頁原型
+* **9/29 [設計新聞網頁（二）](https://nickhsine.github.io/teach-at-nccu/109-01/09-29/)**
+  * 作業（二）：RWD 文章頁
 * **10/6 HTML 標記式語言**
 * **10/13 CSS 串接樣式表**
   * 程式作業（三）
