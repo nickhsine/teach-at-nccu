@@ -7,10 +7,10 @@ email: nickhsine97753017@gmail.com
 * **9/22 [設計新聞網頁（一）](https://nickhsine.github.io/teach-at-nccu/109-01/09-22/)**
   * 作業（一）：選三篇你喜歡的多媒體作品，並說明原因
 * **9/29 [設計新聞網頁（二）](https://nickhsine.github.io/teach-at-nccu/109-01/09-29/)**
-  * 作業（二）：RWD 文章頁
+  * 作業（二）：用 Figma 製作 RWD 文章頁
 * **10/6 [新聞網頁製作 （一） - HTML 標記式語言](https://hackmd.io/svhFYKq4QyaarC_J0WRsig)**
-* **10/13 CSS 串接樣式表**
-  * 程式作業（三）
+* **10/13 [新聞網頁製作（二） - CSS 串接樣式表](https://hackmd.io/Pekdv0mvT8qD_LXLzUo9iQ)**
+  * 作業（三）：程式作業
 * **10/20 CSS 選擇器與基礎網頁排版** 
 * **10/27 網頁敘事元件**
 * **11/3 CSS Position 排版**
