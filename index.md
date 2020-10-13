@@ -10,13 +10,13 @@ email: nickhsine97753017@gmail.com
   * 作業（二）：用 Figma 製作 RWD 文章頁
 * **10/6 [新聞網頁製作 （一） - HTML 標記式語言](https://hackmd.io/svhFYKq4QyaarC_J0WRsig)**
 * **10/13 [新聞網頁製作（二） - CSS 串接樣式表](https://hackmd.io/Pekdv0mvT8qD_LXLzUo9iQ)**
-  * 作業（三）：程式作業
 * **10/20 CSS 選擇器與基礎網頁排版** 
+  * 作業（三）：程式作業
 * **10/27 網頁敘事元件**
 * **11/3 CSS Position 排版**
-  * 程式作業（四）
 * **11/10 期中報告：網頁敘事元件原型**
 * **11/16 CSS Flexbox 排版**
+  * 程式作業（四）
 * **11/24 Responsive Web Design 響應式網頁（一）**
   * 程式作業（五）
 * **12/1 小組討論（一）**
