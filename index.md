@@ -12,16 +12,16 @@ email: nickhsine97753017@gmail.com
 * **10/13 [新聞網頁製作（二） - CSS 串接樣式表](https://hackmd.io/Pekdv0mvT8qD_LXLzUo9iQ)**
 * **10/20 [新聞網頁製作（三）- CSS 選擇器與基礎網頁排版](https://nickhsine.github.io/teach-at-nccu/109-01/10-20/)**
   * 作業（三）：程式作業
-* **10/27 網頁敘事元件**
-* **11/3 CSS Position 排版**
-* **11/10 期中報告：網頁敘事元件原型**
-* **11/16 CSS Flexbox 排版**
+* **10/27 [新聞網頁製作（三）- CSS 選擇器與基礎網頁排版](https://nickhsine.github.io/teach-at-nccu/109-01/10-20/)**
+* **11/03 [新聞網頁製作（四）- CSS Position 與 Flexbox 排版](https://hackmd.io/i1uBelrpRv2Uz5emQawIiw)**
   * 程式作業（四）
+* **11/10 網頁敘事元件**
+* **11/16 期中報告：網頁敘事元件原型**
 * **11/24 Responsive Web Design 響應式網頁（一）**
-  * 程式作業（五）
 * **12/1 小組討論（一）**
   * 網頁敘事元件製作（一）
 * **12/8 Responsive Web Design 響應式網頁（二）**
+  * 程式作業（五）
 * **12/15 多媒體元素與動態效果**
 * **12/22 小組討論（二）**
   * 網頁敘事元件製作（二）
