@@ -7,6 +7,12 @@
 
 請根據[Figma mockup](https://www.figma.com/file/AK1m1XYxFAfeHFSsFDoryZ/homework3_mockup?node-id=0%3A1)實作手機版文章頁。
 
+參考程式範例：
+- [Header](https://github.com/nickhsine/teach-at-nccu/blob/master/109-01/10-27/exercises/header.html)
+- [Toolbox](https://github.com/nickhsine/teach-at-nccu/blob/master/109-01/10-27/exercises/toolbox.html)
+- [Metadata block](https://github.com/nickhsine/teach-at-nccu/blob/master/109-01/10-27/exercises/metadata.html)
+- [Figure](https://github.com/nickhsine/teach-at-nccu/blob/master/109-01/10-27/exercises/figure.html)
+
 #### 繳交作業方式
 使用 Google Drive 繳交作業。
 
