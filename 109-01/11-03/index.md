@@ -1,7 +1,7 @@
-# 新聞網頁製作（四）- 新聞網頁製作（四）- CSS Position 與 Flexbox 排版
+# 新聞網頁製作（四）- CSS Position 與 Flexbox 排版
 授課內容移至 [https://hackmd.io/i1uBelrpRv2Uz5emQawIiw](https://hackmd.io/i1uBelrpRv2Uz5emQawIiw) 。
 
-下載[課堂練習的範例程式碼](https://github.com/nickhsine/teach-at-nccu/raw/master/assets/course-exercies.zip)。
+下載[課堂練習的範例程式碼](https://github.com/nickhsine/teach-at-nccu/raw/master/109-01/11-03/css-position-course-exercise.zip)。
 
 ### 課後作業（作業四）
 請根據 [Figma mockup](https://www.figma.com/file/z3JLKomZppgWw0XYwxzI8h/course_homework4_mockup)實作。
