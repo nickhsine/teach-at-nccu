@@ -19,9 +19,8 @@ email: nickhsine97753017@gmail.com
 * **11/16 期中報告：期末新聞網站規劃**
 * **11/24 [新聞網頁製作（五）- Responsive Web Design 響應式網頁](https://hackmd.io/ojTXG2s0RQaJz85goqIz1w)**
 * **12/1  [新聞網頁製作（六）- 多媒體元素與動態效果](https://hackmd.io/J_YYk1YUSum1x3fVo75PXA)**
-  * 作業（五）：程式作業
-* **12/8  [新聞網頁製作（七）- 使用 GitHub 部署網頁](https://hackmd.io/P9N34oIwS2G6Mfhag3Rqzg)**
-* **12/15 [新聞網頁製作（八）] - 新聞網頁元件與 Bootstrap 套件**
+* **12/8  [新聞網頁製作（七）- GitHub 部署網頁、新聞敘事元件與其他套件](https://hackmd.io/P9N34oIwS2G6Mfhag3Rqzg)**
+* **12/15  [新聞網頁製作（七）- GitHub 部署網頁、新聞敘事元件與其他套件](https://hackmd.io/P9N34oIwS2G6Mfhag3Rqzg)**
 * **12/22 小組討論（一）**
   * 暫定：優化長文閱讀體驗
 * **12/29 小組討論（二）**
