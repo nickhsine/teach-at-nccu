@@ -22,7 +22,12 @@ email: nickhsine97753017@gmail.com
 * **12/8  [新聞網頁製作（七）- GitHub 部署網頁、新聞敘事元件與其他套件](https://hackmd.io/P9N34oIwS2G6Mfhag3Rqzg)**
 * **12/15  [新聞網頁製作（七）- GitHub 部署網頁、新聞敘事元件與其他套件](https://hackmd.io/P9N34oIwS2G6Mfhag3Rqzg)**
 * **12/22 小組討論（一）**
-  * 暫定：優化長文閱讀體驗
+  * case study 1: 左右互搏版型(教學文請見 [《報導者》新聞小工具上線公測part 3：左右互搏版型](https://medium.com/twreporter/twreporter-lab-dual-channel-news-tool-5c13c7a83e24))
+    - [《網路聲量＝實際選票？24 張圖解密六都市長的網路聲量戰爭》](https://www.twreporter.org/i/2018-election-report-sharevoice-gcs)
+    - [《從武漢到世界 ──COVID-19（武漢肺炎）疫情即時脈動》](https://www.twreporter.org/i/covid-2019-keep-tracking-gcs)
+    - [醫材風暴下的真貌醫材訂價迷宮──差額給付巿場大解密](https://www.twreporter.org/a/health-insurance-medical-device-pricing-analysis)
+    - [【COVID-19災情盤點】10個數字快速掃描後疫情世界](https://www.twreporter.org/a/covid-19-crucial-numbers)
+  * case study 2: [囚租人生](https://www.twreporter.org/i/rent-house-in-difficulty-generation-gcs)
 * **12/29 小組討論（二）**
   * 暫定：優化「左右互搏版型」閱讀體驗
 * **1/5   小組討論（三）**
