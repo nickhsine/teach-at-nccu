@@ -27,6 +27,7 @@ email: nickhsine97753017@gmail.com
     - [《從武漢到世界 ──COVID-19（武漢肺炎）疫情即時脈動》](https://www.twreporter.org/i/covid-2019-keep-tracking-gcs)
     - [醫材風暴下的真貌醫材訂價迷宮──差額給付巿場大解密](https://www.twreporter.org/a/health-insurance-medical-device-pricing-analysis)
     - [【COVID-19災情盤點】10個數字快速掃描後疫情世界](https://www.twreporter.org/a/covid-19-crucial-numbers)
+    - [終於來到解禁這一天，疫情下台灣百工心內話](https://www.twreporter.org/a/photo-covid-19-taiwanese-inner-words)
   * case study 2: [囚租人生](https://www.twreporter.org/i/rent-house-in-difficulty-generation-gcs)
 * **12/29 小組討論（二）**
   * 暫定：優化「左右互搏版型」閱讀體驗
