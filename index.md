@@ -34,6 +34,13 @@ email: nickhsine97753017@gmail.com
 * **1/5   小組討論（三）**
   * 暫定：提升圖像（表）閱讀體驗
 * **1/12  期末報告**
+  * 第一組：[還醒者](https://106405212.github.io/final_project/web_final/first_page&about_us/firstpage2.html)
+  * 第二組：[資恩荼報](https://106405042.github.io/coin-media/mainpage.html)
+  * 第三組：[廢報](https://106204021.github.io/trashnews/finalsite.html)
+  * 第四組：[GoodBye 2020](https://neeeet.github.io/)
+  * 第五組：[CHA NEWS](https://107405096.github.io/chatnews-final/期末/)
+  * 第六組：[甜報](https://106405112.github.io/articlepage/strawberry-home.html)
+  * 第七組：[旅遊者 Traveller](https://106405064.github.io/traveller.github.io/homepage.html)
 
 ## 評分方式
 - 出席（20%）
