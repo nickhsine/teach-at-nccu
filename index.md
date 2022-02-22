@@ -4,7 +4,7 @@ email: nickhsine97753017@gmail.com
 
 ## 授課課綱
 * **2/15 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/110-02/02-15)**
-* **2/22 設計新聞網頁（一）**
+* **2/22 [設計新聞網頁（一）](https://nickhsine.github.io/teach-at-nccu/110-02/02-22)**
 * **3/1 設計新聞網頁（二）**
 * **3/8 [新聞網頁製作 （一） - HTML 標記式語言](https://hackmd.io/svhFYKq4QyaarC_J0WRsig)**
 * **3/15 [新聞網頁製作（二） - CSS 串接樣式表](https://hackmd.io/Pekdv0mvT8qD_LXLzUo9iQ)**
