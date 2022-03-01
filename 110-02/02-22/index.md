@@ -23,3 +23,7 @@
 - [穿山甲──走私至滅絕之路](./the-pangolin-reports-trafficked-to-extinction.md)
 
 [下載練習用 icons](https://github.com/nickhsine/teach-at-nccu/raw/master/assets/icons/icons.zip)
+
+### Figma 範例
+- [手機版](https://www.figma.com/file/myAVmoaE5ibPZFGIbnysrT/course-demo-article-page-v2?node-id=0%3A1)
+- [桌機版](https://www.figma.com/file/myAVmoaE5ibPZFGIbnysrT/course-demo-article-page-v2?node-id=873%3A330)
