@@ -27,3 +27,6 @@
 ### Figma 範例
 - [手機版](https://www.figma.com/file/myAVmoaE5ibPZFGIbnysrT/course-demo-article-page-v2?node-id=0%3A1)
 - [桌機版](https://www.figma.com/file/myAVmoaE5ibPZFGIbnysrT/course-demo-article-page-v2?node-id=873%3A330)
+
+### Figma Prototyping
+- 下載 Figma Mirror App
