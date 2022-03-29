@@ -1,0 +1,64 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Header Block</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+
+        .mobile-block {
+            width: 375px;
+            background-color: #f1f1f1;
+        }
+
+        #header {
+            padding: 20px
+        }
+
+        #header>.logo {
+            width: calc(375px - 40px - 28px);
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        #header>.logo>img {
+            width: 219px;
+        }
+
+        .ham>div {
+            width: 28px;
+            height: 3px;
+            background-color: #c71b0a;
+            margin-bottom: 10px;
+            margin-left: auto;
+        }
+
+        .ham>div:last-child {
+            margin-bottom: 0px;
+        }
+
+        #header>.ham {
+            vertical-align: middle;
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="mobile-block">
+        <div id="header">
+            <div class="logo">
+                <img src="https://github.com/nickhsine/teach-at-nccu/raw/master/assets/icons/twreporter-logo.svg" width="100%">
+            </div><div class="ham">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
