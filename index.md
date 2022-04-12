@@ -11,7 +11,7 @@ email: nickhsine97753017@gmail.com
 * **3/22 [新聞網頁製作（三）- CSS 選擇器與基礎網頁排版](https://hackmd.io/ccO-gvxFR5-49q3ePoNJkg)**
 * **3/29 [新聞網頁製作（三）- CSS 選擇器與基礎網頁排版](https://hackmd.io/ccO-gvxFR5-49q3ePoNJkg)**
 * **4/5 清明節放假**
-* **4/12 資料記者分享（暫定）**
+* **4/12 資料記者分享**
 * **4/19 [新聞網頁製作（四）- CSS Position 與 Flexbox 排版](https://hackmd.io/i1uBelrpRv2Uz5emQawIiw)**
 * **4/26 [新聞網頁製作（四）- CSS Position 與 Flexbox 排版](https://hackmd.io/i1uBelrpRv2Uz5emQawIiw)**
 * **5/3 [新聞網頁製作（五）- Responsive Web Design 響應式網頁](https://hackmd.io/ojTXG2s0RQaJz85goqIz1w)**
