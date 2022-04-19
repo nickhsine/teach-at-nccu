@@ -1,0 +1,15 @@
+.toolbox-block {
+    width: 300px;
+    height: 36px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.toolbox-block>img {
+    height: 100%;
+    margin-right: 10px;
+}
+
+.toolbox-block>img:last-of-type {
+    margin-right: 0px;
+}

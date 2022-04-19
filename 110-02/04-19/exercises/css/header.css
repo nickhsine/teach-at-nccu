@@ -1,0 +1,30 @@
+#header {
+	padding: 20px
+}
+
+#header>.logo {
+	width: calc(375px - 50px - 28px);
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#header>.logo>img {
+	width: 219px;
+}
+
+.ham>div {
+	width: 28px;
+	height: 3px;
+	background-color: #c71b0a;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+
+.ham>div:last-child {
+	margin-bottom: 0px;
+}
+
+#header>.ham {
+	vertical-align: middle;
+	display: inline-block;
+}

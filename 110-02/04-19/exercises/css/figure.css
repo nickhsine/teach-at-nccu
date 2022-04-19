@@ -1,0 +1,31 @@
+/* */
+figure.mobile {
+	width: 100%;
+	margin: 0;
+}
+
+figure.mobile>img {
+	width: 100%;
+}
+
+figcaption.mobile {
+	color: #999999;
+	width: 235px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-left: auto;
+	padding-bottom: 15px;
+	font-size: 14px;
+	line-height: 1.5;
+	border-bottom: 1px solid #D0A67D;
+}
+
+figcaption.mobile-hero {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #808080;
+    margin-top: 15px;
+    width: 95%;
+    border-bottom: none;
+    padding-left: 8px;
+}

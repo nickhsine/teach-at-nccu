@@ -1,0 +1,17 @@
+.infobox-block {
+	background-color: #fff;
+	padding: 30px 24px 30px 24px;
+}
+
+.infobox-title {
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 38px;
+	color: #000000;
+}
+
+.infobox-content {
+	font-size: 16px;
+	line-height: 38px;
+	color: #404040;
+}
