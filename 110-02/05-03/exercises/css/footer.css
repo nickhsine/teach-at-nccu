@@ -1,0 +1,80 @@
+
+* {
+    box-sizing: border-box;
+}
+
+#footer {
+    padding: 50px;
+    background-color: #f1f1f1;
+    display: flex;
+    align-items: flex-start;
+}
+
+#footer .logo-desc-icons {
+    width: 230px;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+#footer .logo-desc-icons p {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: #808080;
+}
+
+#footer .logo-desc-icons .copyright {
+    color: #9c9c9c;
+}
+
+#footer .icons {
+    width: 202px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#footer .menu {
+    width: 434px;
+    height: 120px;
+    margin-left: 45px;
+    border-left: 0.5px solid #9c9c9c;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: space-between;
+    padding-left: 74px;
+}
+
+#footer .menu span {
+    color: #808080;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 12px;
+}
+
+#footer .menu .new-flag {
+    background-color: #DA1F0D;
+    padding: 3px;
+    display: inline-block;
+    font-size: 12px;
+    color: #fff;
+    margin-right: 7px;
+    position: absolute;
+    right: 100%;
+}
+
+#footer .menu .new-flag-block {
+    position: relative;
+}
+
+
+#footer .donate-us {
+    margin-left: 67px;
+    width: 148px;
+    max-width: 148px;
+    border: 1px solid #A67A44;
+    color: #A67A44;
+    font-size: 14px;
+    padding: 14px 44px;
+}
