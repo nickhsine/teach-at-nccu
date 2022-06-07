@@ -1,0 +1,59 @@
+<head>
+  <style>
+    #loader {
+      position: fixed;
+      width: 100vw;
+      height: 100vh;
+      background-color: white;
+      opacity: 100%;
+      transition-property: all; 
+      transition-duration: 1s;
+      display: flex;
+    }
+    #loader.loaded {
+      opacity: 0%;
+    }
+    #loader.loaded img {
+      animation-name: none;
+    }
+    
+    #loader img {
+      margin: auto;
+      animation-name: circle-rotate;
+      animation-duration: 1s;
+      animation-iteration-count: infinite;
+    }
+
+    @keyframes circle-rotate {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+  </style>
+</head>
+<body onload="onLoad()">
+  <!-- loader 元素 -->
+  <div id="loader" >
+    <img src="./loading-svgrepo-com.svg">
+  </div>
+
+  <!-- 網頁內容 -->
+  <h1>test...</h1>
+
+  <!-- 載入 jQuery 套件 -->
+	<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+
+  <script>
+    function onLoad() {
+      // 等一秒鐘後，在 `<div id="loader">` 的元素上，加上 `class="loaded"`。
+      // `<div id="loader">` -> `<div id="loader" class="loaded">`
+      setTimeout(() => {
+		    $('#loader').addClass("loaded");	
+      }, 1000)
+    }
+  </script>
+</body>
