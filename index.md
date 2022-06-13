@@ -27,3 +27,9 @@ email: nickhsine97753017@gmail.com
 - 課堂作業（30%）
 - 期中報告（10%）
 - 期末報告（40%）
+
+## 小組報告
+- [步步](https://107405117.github.io/bubu/homepage-button.html)
+- [聲影少女]()
+- [編輯市](https://107405097.github.io/312-The-News-City/homepage.html/index.html)
+- [指南報社](https://107509304.github.io/Zhinan.site/homepage.html)
