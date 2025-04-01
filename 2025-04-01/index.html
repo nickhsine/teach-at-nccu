@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .cards {
+            /* flexbox */
+            display: flex;
+
+            /* 斷行 */
+            /* 卡片因此變兩行 */
+            flex-wrap: wrap;
+
+            /* 兩行的間距上下分開 */
+            align-content: space-between;
+
+            /* 讓同一行的 flex items (card) 等高 */
+            align-items: stretch;
+
+            /* card (flex item) 與 card 之間的距離 */
+            gap: 8px;
+
+            height: calc(342px + 314px + 40px);
+
+            width: calc(247px * 3 + 8px + 8px);
+        }
+
+        .card {
+            width: 247px;
+            padding-bottom: 40px;
+
+            border-right: 1px solid #D8D8D8;
+            border-bottom: 1px solid #D8D8D8;
+        }
+
+        /* 卡片的圖 */
+        .card .bg-img {
+            width: 100%;
+            height: 148px;
+            background-position: center;
+            background-repeat: no-repeat;
+
+            /* 當圖片的長寬比和區塊不同時，圖片會蓋住區塊，並裁切上左下右 */
+            background-size: cover;
+        }
+
+        /* 卡片的類別 */
+        .card .category {
+            font-size: 14px;
+            font-weight: bold;
+            line-height: 28px;
+            color: #A67A44;
+        }
+
+        /* 卡片的標題 */
+        .card .title {
+            font-size: 16px;
+            font-weight: bold;
+            line-height: 28px;
+            color: #262626;
+        }
+
+        /* 卡片的刊出時間 */
+        .card .published-date {
+            font-size: 12px;
+            font-weight: bold;
+            line-height: 24px;
+            color: #D0D0D0;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- flexbox: cards -->
+    <div class="cards">
+        <!-- flex item: card 1 -->
+        <div class="card">
+            <div class="bg-img" style="background-image: url(./images/image-1.jpg);"></div>
+            <div class="category">評論</div>
+            <div class="title">【山思而行】果敢的探險──關掉Google地圖，找回觀察力和動物本能</div>
+            <div class="published-date">2019/4/26</div>
+        </div>
+        <!-- flex item: card 2 -->
+        <div class="card">
+            <div class="bg-img" style="background-image: url(./images/image-2.jpg);"></div>
+            <div class="category">評論</div>
+            <div class="title">【山思而行】登山光譜中的幾束色彩</div>
+            <div class="published-date">2019/4/26</div>
+        </div>
+
+        <!-- flex item: card 3 -->
+        <div class="card">
+            <div class="bg-img" style="background-image: url(./images/image-3.jpg);"></div>
+            <div class="category">評論</div>
+            <div class="title">【山思而行】阿拉斯加之死</div>
+            <div class="published-date">2019/4/26</div>
+        </div>
+        <!-- flex item: card 4 -->
+        <div class="card">
+            <div class="bg-img" style="background-image: url(./images/image-4.jpg);"></div>
+            <div class="category">評論</div>
+            <div class="title">【山思而行】登山，不是說走就走的旅行登山，不是說走就走的旅行登山，不是說走就走的旅行</div>
+            <div class="published-date">2019/4/26</div>
+        </div>
+        <!-- flex item: card 5 -->
+        <div class="card">
+            <div class="bg-img" style="background-image: url(./images/image-5.jpg);"></div>
+            <div class="category">評論</div>
+            <div class="title">【山思而行】撐起下一代的勇氣</div>
+            <div class="published-date">2019/4/26</div>
+        </div>
+        <!-- flex item: card 6 -->
+        <div class="card">
+            <div class="bg-img" style="background-image: url(./images/image-6.jpg);"></div>
+            <div class="category">評論</div>
+            <div class="title">【山思而行】茅廁頓開</div>
+            <div class="published-date">2019/4/26</div>
+        </div>
+    </div>
+</body>
+
+</html>
