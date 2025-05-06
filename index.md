@@ -3,7 +3,7 @@
 email: nickhsine97753017@gmail.com
 
 ## 授課課綱
-* **2/18 課程介紹及加退選**
+* **2/18 [課程介紹及加退選](https://nickhsine.github.io/teach-at-nccu/111-02/02-14)**
 * **2/25 [新聞網頁製作 （一） - HTML 標記式語言](https://hackmd.io/svhFYKq4QyaarC_J0WRsig)**
 * **3/4  [新聞網頁製作（二） - CSS 串接樣式表](https://hackmd.io/Pekdv0mvT8qD_LXLzUo9iQ)**
 * **3/11 [新聞網頁製作（三）- CSS 選擇器與基礎網頁排版](https://hackmd.io/ccO-gvxFR5-49q3ePoNJkg)**
